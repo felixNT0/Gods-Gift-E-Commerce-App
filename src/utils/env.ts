@@ -1,0 +1,5 @@
+export const {
+  VITE_APP_GITHUB_ACCESS_TOKEN,
+  VITE_CODER_API_BASE_URL,
+  VITE_APP_GPT_API_TOKEN_KEY,
+} = import.meta.env;
